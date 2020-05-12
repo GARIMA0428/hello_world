@@ -1,2 +1,4 @@
 # hello_world
-This is my start at github
+
+Hi my name is Garima Vijay.
+here i am writing in my first repository at github.
